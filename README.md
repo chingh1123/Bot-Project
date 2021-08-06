@@ -37,7 +37,7 @@
 **[ weather, youtube, spotify tracker, covid tracker, userinfo ]**
   
 -----------------------------------------------------------------------------------------------------------------------------
-【Invite】https://top.gg/bot/837564399833055272/invite/
+【Invite】- https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=8&scope=bot%20applications.commands
   
   
 【Vote Top.gg】 - https://top.gg/bot/837564399833055272/vote/
