@@ -22,8 +22,8 @@
 **"gh help" ! I will continue to update the bot to get command more functions!**
   
 ----------------------------------------------------------------------------------------------------------------------------
-**Examples of the bot functions:**
-
+## Examples of the bot functions:
+  
 **· Minigames | Fun**
   
 **[ rps, tictactoe, button calculator, dinochrome ]**
